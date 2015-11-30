@@ -1,3 +1,7 @@
 .navbar{
 	border-radius: 0;
 }
+.actions{
+	float:right;
+	margin-top: 20px;
+}
