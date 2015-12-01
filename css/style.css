@@ -5,3 +5,6 @@
 	float:right;
 	margin-top: 20px;
 }
+.tablersorter-header th{
+	cursor: pointer;
+}
